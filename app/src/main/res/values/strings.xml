@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="name">Cesta de Frutas</string>
+    <string name="description">Laranja, manga e uva</string>
+    <string name="value">19.99</string>
+
+    <string name="et_name">Nome</string>
+    <string name="et_description">Descrição</string>
+    <string name="et_value">Valor</string>
+    <string name="btn_save">Salvar</string>
+</resources>
