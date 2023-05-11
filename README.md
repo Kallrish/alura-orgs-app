@@ -40,8 +40,4 @@ Nesta versão o App possui as seguintes funcionalidades:
 
 ## 🎯 Desafio
 
-Utilização do View Binding para realizar o processo de binding de Views. Você pode [conferir o resultado do desafio neste commit](https://github.com/alura-cursos/android-com-kotlin-fundamentos/commit/e515fca9480c610200f9f13d6ac3c504fd130e07).
-
-## 📚 Mais informações do curso
-
-Gostou do conteúdo e quer saber mais detalhes? Então [confira o curso na página da Alura](https://www.alura.com.br/curso-online-fundamentos-android-kotlin) 😉
+Utilização do View Binding para realizar o processo de binding de Views.
